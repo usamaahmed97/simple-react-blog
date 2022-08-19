@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Hello World, why is this your first computer program?",
+      "body": "This is just a sample text blog. No valuable content here. ",
+      "author": "Usama",
+      "id": 5
+    },
+    {
+      "title": "How to become a React Developer in two weeks?",
+      "body": "Learn....",
+      "author": "Ahmed",
+      "id": 6
+    },
+    {
+      "title": "Node JS: The complete guide",
+      "body": "Read the official documentation dude.",
+      "author": "Ahmed",
+      "id": 7
+    },
+    {
+      "title": "How to speed up your coding process?",
+      "body": "Learn...",
+      "author": "Qasmi",
+      "id": 8
+    }
+  ]
+}
